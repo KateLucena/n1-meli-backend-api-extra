@@ -1,0 +1,25 @@
+[
+
+    {   "id": 1,
+        "titulo": "Filme 01",
+        "sinopse":"Sinopse 01",
+        "dataDeLancamento":"10/09/2019",
+        "duracaoEmMinutos": 160,
+        "genero":["Aventura", "Ação"]
+    }
+    {   "id": 2,
+        "titulo": "Filme 02",
+        "sinopse":"Sinopse 02",
+        "dataDeLancamento":"10/09/2019",
+        "duracaoEmMinutos": 120,
+        "genero":["Romance","Comédia"]
+    }
+    {   "id": 3,
+        "titulo": "Filme 01",
+        "sinopse":"Sinopse 01",
+        "dataDeLancamento":"19/10/2019",
+        "duracaoEmMinutos":90,
+        "genero":["Comédia"]
+    }
+
+]
